@@ -1,0 +1,5 @@
+module C
+typeinfo appC.qmltypes
+prefer :/qt/qml/C/
+Main 1.0 Main.qml
+

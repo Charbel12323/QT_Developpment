@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/C/">
+    <file alias="Main.qml">/home/charbel/C/Main.qml</file>
+  </qresource>
+</RCC>
+

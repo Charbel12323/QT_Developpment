@@ -1,0 +1,26 @@
+{
+    "classes": [
+        {
+            "className": "hello",
+            "lineNumber": 7,
+            "methods": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "get_message",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "hello",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "hello.h",
+    "outputRevision": 68
+}
